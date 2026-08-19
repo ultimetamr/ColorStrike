@@ -1,0 +1,36 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Local SDK and machine-specific settings
+local.properties
+analytics.settings
+.android/
+*.keystore
+*.jks
+*.p12
+
+# Gradle caches and build outputs
+.gradle/
+.gradle-user-home/
+.gradle-user-home-jbr/
+.tools/
+**/build/
+
+# Native build outputs
+.cxx/
+.externalNativeBuild/
+
+# Packaged binaries and logs
+*.apk
+*.aab
+*.log
+
+# Emulator and temporary verification artifacts
+artifacts/*
+!artifacts/branding/
+!artifacts/branding/*.png
+
+# Operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.ColorStrike" parent="android:Theme.Translucent.NoTitleBar.Fullscreen" />
+</resources>
